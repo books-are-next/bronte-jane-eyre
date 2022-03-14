@@ -1,0 +1,361 @@
+{
+  "epub": {
+    "metadata": {
+      "title": "Jane Eyre, an Autobiography",
+      "identifier": "randomid-idm45459250986064",
+      "author": "Charlotte Brontë",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2022-03-14T15:52:24.025Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "cover.md",
+        "xhtml": "cover.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "titlepage01.md",
+        "xhtml": "titlepage01.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "copyright-page01.md",
+        "xhtml": "copyright-page01.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ch01.md",
+        "xhtml": "ch01.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ch02.md",
+        "xhtml": "ch02.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ch03.md",
+        "xhtml": "ch03.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ch04.md",
+        "xhtml": "ch04.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ch05.md",
+        "xhtml": "ch05.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ch06.md",
+        "xhtml": "ch06.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ch07.md",
+        "xhtml": "ch07.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ch08.md",
+        "xhtml": "ch08.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ch09.md",
+        "xhtml": "ch09.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ch10.md",
+        "xhtml": "ch10.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ch11.md",
+        "xhtml": "ch11.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ch12.md",
+        "xhtml": "ch12.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ch13.md",
+        "xhtml": "ch13.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ch14.md",
+        "xhtml": "ch14.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ch15.md",
+        "xhtml": "ch15.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ch16.md",
+        "xhtml": "ch16.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ch17.md",
+        "xhtml": "ch17.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ch18.md",
+        "xhtml": "ch18.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ch19.md",
+        "xhtml": "ch19.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ch20.md",
+        "xhtml": "ch20.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ch21.md",
+        "xhtml": "ch21.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ch22.md",
+        "xhtml": "ch22.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ch23.md",
+        "xhtml": "ch23.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ch24.md",
+        "xhtml": "ch24.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ch25.md",
+        "xhtml": "ch25.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ch26.md",
+        "xhtml": "ch26.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ch27.md",
+        "xhtml": "ch27.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ch28.md",
+        "xhtml": "ch28.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ch29.md",
+        "xhtml": "ch29.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ch30.md",
+        "xhtml": "ch30.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ch31.md",
+        "xhtml": "ch31.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ch32.md",
+        "xhtml": "ch32.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ch33.md",
+        "xhtml": "ch33.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ch34.md",
+        "xhtml": "ch34.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ch35.md",
+        "xhtml": "ch35.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ch36.md",
+        "xhtml": "ch36.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ch37.md",
+        "xhtml": "ch37.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ch38.md",
+        "xhtml": "ch38.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ch39.md",
+        "xhtml": "ch39.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ch40.md",
+        "xhtml": "ch40.html"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/epub.css"
+      },
+      {
+        "type": "image/jpeg",
+        "height": 5400,
+        "width": 3600,
+        "rel": "cover",
+        "href": "OEBPS/Images/cover.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/p30s.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/p107s.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/p140s.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/p184s.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/p190s.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/p272s.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/p311s.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/p316s.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/p323s.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/p369s.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/p389s.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/p413s.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/p422s.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/p435s.jpg"
+      },
+      {
+        "type": "application/xhtml+xml",
+        "rel": "contents",
+        "href": "OEBPS/Text/toc01.html"
+      }
+    ],
+    "classes": [
+      "bare",
+      "chapter",
+      "hyperlink",
+      "preface",
+      "rights"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "bronte-jane-eyre"
+    },
+    "generatedAt": 1647273145238
+  }
+}

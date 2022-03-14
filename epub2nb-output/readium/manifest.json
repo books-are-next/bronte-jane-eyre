@@ -1,0 +1,434 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Jane Eyre, an Autobiography",
+    "identifier": "randomid-idm45459250986064",
+    "author": "Charlotte Brontë",
+    "publisher": "Městská knihovna v Praze",
+    "language": "en",
+    "modified": "2022-03-14T15:52:24.025Z",
+    "dcterms:identifier": "randomid-idm45459250986064",
+    "dcterms:title": "Jane Eyre, an Autobiography",
+    "dcterms:language": "en",
+    "dcterms:modified": "2017-06-29T14:42:01Z",
+    "dcterms:creator": "Charlotte Brontë",
+    "cover": "cover-image",
+    "ibooks:specified-fonts": "true",
+    "Sigil version": "0.9.8"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/cover.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/titlepage01.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/copyright-page01.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ch01.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ch02.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ch03.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ch04.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ch05.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ch06.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ch07.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ch08.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ch09.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ch10.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ch11.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ch12.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ch13.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ch14.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ch15.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ch16.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ch17.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ch18.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ch19.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ch20.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ch21.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ch22.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ch23.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ch24.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ch25.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ch26.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ch27.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ch28.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ch29.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ch30.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ch31.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ch32.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ch33.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ch34.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ch35.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ch36.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ch37.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ch38.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ch39.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ch40.html"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/epub.css"
+    },
+    {
+      "type": "image/jpeg",
+      "height": 5400,
+      "width": 3600,
+      "rel": "cover",
+      "href": "OEBPS/Images/cover.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/p30s.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/p107s.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/p140s.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/p184s.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/p190s.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/p272s.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/p311s.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/p316s.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/p323s.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/p369s.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/p389s.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/p413s.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/p422s.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/p435s.jpg"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "rel": "contents",
+      "href": "OEBPS/Text/toc01.html"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Copyright",
+      "href": "OEBPS/Text/ch01.html#xx_copyright"
+    },
+    {
+      "title": "PREFACE",
+      "href": "OEBPS/Text/ch02.html#xx_preface"
+    },
+    {
+      "title": "CHAPTER I",
+      "href": "OEBPS/Text/ch03.html#xx_chapter_i"
+    },
+    {
+      "title": "CHAPTER II",
+      "href": "OEBPS/Text/ch04.html#xx_chapter_ii"
+    },
+    {
+      "title": "CHAPTER III",
+      "href": "OEBPS/Text/ch05.html#xx_chapter_iii"
+    },
+    {
+      "title": "CHAPTER IV",
+      "href": "OEBPS/Text/ch06.html#xx_chapter_iv"
+    },
+    {
+      "title": "CHAPTER V",
+      "href": "OEBPS/Text/ch07.html#xx_chapter_v"
+    },
+    {
+      "title": "CHAPTER VI",
+      "href": "OEBPS/Text/ch08.html#xx_chapter_vi"
+    },
+    {
+      "title": "CHAPTER VII",
+      "href": "OEBPS/Text/ch09.html#xx_chapter_vii"
+    },
+    {
+      "title": "CHAPTER VIII",
+      "href": "OEBPS/Text/ch10.html#xx_chapter_viii"
+    },
+    {
+      "title": "CHAPTER IX",
+      "href": "OEBPS/Text/ch11.html#xx_chapter_ix"
+    },
+    {
+      "title": "CHAPTER X",
+      "href": "OEBPS/Text/ch12.html#xx_chapter_x"
+    },
+    {
+      "title": "CHAPTER XI",
+      "href": "OEBPS/Text/ch13.html#xx_chapter_xi"
+    },
+    {
+      "title": "CHAPTER XII",
+      "href": "OEBPS/Text/ch14.html#xx_chapter_xii"
+    },
+    {
+      "title": "CHAPTER XIII",
+      "href": "OEBPS/Text/ch15.html#xx_chapter_xiii"
+    },
+    {
+      "title": "CHAPTER XIV",
+      "href": "OEBPS/Text/ch16.html#xx_chapter_xiv"
+    },
+    {
+      "title": "CHAPTER XV",
+      "href": "OEBPS/Text/ch17.html#xx_chapter_xv"
+    },
+    {
+      "title": "CHAPTER XVI",
+      "href": "OEBPS/Text/ch18.html#xx_chapter_xvi"
+    },
+    {
+      "title": "CHAPTER XVII",
+      "href": "OEBPS/Text/ch19.html#xx_chapter_xvii"
+    },
+    {
+      "title": "CHAPTER XVIII",
+      "href": "OEBPS/Text/ch20.html#xx_chapter_xviii"
+    },
+    {
+      "title": "CHAPTER XIX",
+      "href": "OEBPS/Text/ch21.html#xx_chapter_xix"
+    },
+    {
+      "title": "CHAPTER XX",
+      "href": "OEBPS/Text/ch22.html#xx_chapter_xx"
+    },
+    {
+      "title": "CHAPTER XXI",
+      "href": "OEBPS/Text/ch23.html#xx_chapter_xxi"
+    },
+    {
+      "title": "CHAPTER XXII",
+      "href": "OEBPS/Text/ch24.html#xx_chapter_xxii"
+    },
+    {
+      "title": "CHAPTER XXIII",
+      "href": "OEBPS/Text/ch25.html#xx_chapter_xxiii"
+    },
+    {
+      "title": "CHAPTER XXIV",
+      "href": "OEBPS/Text/ch26.html#xx_chapter_xxiv"
+    },
+    {
+      "title": "CHAPTER XXV",
+      "href": "OEBPS/Text/ch27.html#xx_chapter_xxv"
+    },
+    {
+      "title": "CHAPTER XXVI",
+      "href": "OEBPS/Text/ch28.html#xx_chapter_xxvi"
+    },
+    {
+      "title": "CHAPTER XXVII",
+      "href": "OEBPS/Text/ch29.html#xx_chapter_xxvii"
+    },
+    {
+      "title": "CHAPTER XXVIII",
+      "href": "OEBPS/Text/ch30.html#xx_chapter_xxviii"
+    },
+    {
+      "title": "CHAPTER XXIX",
+      "href": "OEBPS/Text/ch31.html#xx_chapter_xxix"
+    },
+    {
+      "title": "CHAPTER XXX",
+      "href": "OEBPS/Text/ch32.html#xx_chapter_xxx"
+    },
+    {
+      "title": "CHAPTER XXXI",
+      "href": "OEBPS/Text/ch33.html#xx_chapter_xxxi"
+    },
+    {
+      "title": "CHAPTER XXXII",
+      "href": "OEBPS/Text/ch34.html#xx_chapter_xxxii"
+    },
+    {
+      "title": "CHAPTER XXXIII",
+      "href": "OEBPS/Text/ch35.html#xx_chapter_xxxiii"
+    },
+    {
+      "title": "CHAPTER XXXIV",
+      "href": "OEBPS/Text/ch36.html#xx_chapter_xxxiv"
+    },
+    {
+      "title": "CHAPTER XXXV",
+      "href": "OEBPS/Text/ch37.html#xx_chapter_xxxv"
+    },
+    {
+      "title": "CHAPTER XXXVI",
+      "href": "OEBPS/Text/ch38.html#xx_chapter_xxxvi"
+    },
+    {
+      "title": "CHAPTER XXXVII",
+      "href": "OEBPS/Text/ch39.html#xx_chapter_xxxvii"
+    },
+    {
+      "title": "CHAPTER XXXVIII—CONCLUSION",
+      "href": "OEBPS/Text/ch40.html#xx_chapter_xxxviii_conclusion"
+    }
+  ]
+}

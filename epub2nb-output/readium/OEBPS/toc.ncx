@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="cover" name="cover"/>
+    <meta content="randomid-idm45459250986064" name="dtb:uid"/>
+  </head>
+  <docTitle>
+    <text>Jane Eyre, an Autobiography</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="chapter-idm45459250661808" playOrder="1">
+      <navLabel>
+        <text>1. Copyright</text>
+      </navLabel>
+      <content src="Text/ch01.html#idm45459250661808"/>
+    </navPoint>
+    <navPoint id="chapter-idm45459250654448" playOrder="2">
+      <navLabel>
+        <text>2. PREFACE</text>
+      </navLabel>
+      <content src="Text/ch02.html#idm45459250654448"/>
+    </navPoint>
+    <navPoint id="chapter-idm45459250639424" playOrder="3">
+      <navLabel>
+        <text>3. CHAPTER I</text>
+      </navLabel>
+      <content src="Text/ch03.html#idm45459250639424"/>
+    </navPoint>
+    <navPoint id="chapter-idm45459250603712" playOrder="4">
+      <navLabel>
+        <text>4. CHAPTER II</text>
+      </navLabel>
+      <content src="Text/ch04.html#idm45459250603712"/>
+    </navPoint>
+    <navPoint id="chapter-idm45459250552368" playOrder="5">
+      <navLabel>
+        <text>5. CHAPTER III</text>
+      </navLabel>
+      <content src="Text/ch05.html#idm45459250552368"/>
+    </navPoint>
+    <navPoint id="chapter-idm45459250491200" playOrder="6">
+      <navLabel>
+        <text>6. CHAPTER IV</text>
+      </navLabel>
+      <content src="Text/ch06.html#idm45459250491200"/>
+    </navPoint>
+    <navPoint id="chapter-idm45459250383168" playOrder="7">
+      <navLabel>
+        <text>7. CHAPTER V</text>
+      </navLabel>
+      <content src="Text/ch07.html#idm45459250383168"/>
+    </navPoint>
+    <navPoint id="chapter-idm45459250292368" playOrder="8">
+      <navLabel>
+        <text>8. CHAPTER VI</text>
+      </navLabel>
+      <content src="Text/ch08.html#idm45459250292368"/>
+    </navPoint>
+    <navPoint id="chapter-idm45459250239104" playOrder="9">
+      <navLabel>
+        <text>9. CHAPTER VII</text>
+      </navLabel>
+      <content src="Text/ch09.html#idm45459250239104"/>
+    </navPoint>
+    <navPoint id="chapter-idm45459250181072" playOrder="10">
+      <navLabel>
+        <text>10. CHAPTER VIII</text>
+      </navLabel>
+      <content src="Text/ch10.html#idm45459250181072"/>
+    </navPoint>
+    <navPoint id="chapter-idm45459250130272" playOrder="11">
+      <navLabel>
+        <text>11. CHAPTER IX</text>
+      </navLabel>
+      <content src="Text/ch11.html#idm45459250130272"/>
+    </navPoint>
+    <navPoint id="chapter-idm45459250077040" playOrder="12">
+      <navLabel>
+        <text>12. CHAPTER X</text>
+      </navLabel>
+      <content src="Text/ch12.html#idm45459250077040"/>
+    </navPoint>
+    <navPoint id="chapter-idm45459250000592" playOrder="13">
+      <navLabel>
+        <text>13. CHAPTER XI</text>
+      </navLabel>
+      <content src="Text/ch13.html#idm45459250000592"/>
+    </navPoint>
+    <navPoint id="chapter-idm45459249893648" playOrder="14">
+      <navLabel>
+        <text>14. CHAPTER XII</text>
+      </navLabel>
+      <content src="Text/ch14.html#idm45459249893648"/>
+    </navPoint>
+    <navPoint id="chapter-idm45459249824576" playOrder="15">
+      <navLabel>
+        <text>15. CHAPTER XIII</text>
+      </navLabel>
+      <content src="Text/ch15.html#idm45459249824576"/>
+    </navPoint>
+    <navPoint id="chapter-idm45459249735456" playOrder="16">
+      <navLabel>
+        <text>16. CHAPTER XIV</text>
+      </navLabel>
+      <content src="Text/ch16.html#idm45459249735456"/>
+    </navPoint>
+    <navPoint id="chapter-idm45459249646736" playOrder="17">
+      <navLabel>
+        <text>17. CHAPTER XV</text>
+      </navLabel>
+      <content src="Text/ch17.html#idm45459249646736"/>
+    </navPoint>
+    <navPoint id="chapter-idm45459249563216" playOrder="18">
+      <navLabel>
+        <text>18. CHAPTER XVI</text>
+      </navLabel>
+      <content src="Text/ch18.html#idm45459249563216"/>
+    </navPoint>
+    <navPoint id="chapter-idm45459249494544" playOrder="19">
+      <navLabel>
+        <text>19. CHAPTER XVII</text>
+      </navLabel>
+      <content src="Text/ch19.html#idm45459249494544"/>
+    </navPoint>
+    <navPoint id="chapter-idm45459249332896" playOrder="20">
+      <navLabel>
+        <text>20. CHAPTER XVIII</text>
+      </navLabel>
+      <content src="Text/ch20.html#idm45459249332896"/>
+    </navPoint>
+    <navPoint id="chapter-idm45459249235872" playOrder="21">
+      <navLabel>
+        <text>21. CHAPTER XIX</text>
+      </navLabel>
+      <content src="Text/ch21.html#idm45459249235872"/>
+    </navPoint>
+    <navPoint id="chapter-idm45459249142752" playOrder="22">
+      <navLabel>
+        <text>22. CHAPTER XX</text>
+      </navLabel>
+      <content src="Text/ch22.html#idm45459249142752"/>
+    </navPoint>
+    <navPoint id="chapter-idm45459249020320" playOrder="23">
+      <navLabel>
+        <text>23. CHAPTER XXI</text>
+      </navLabel>
+      <content src="Text/ch23.html#idm45459249020320"/>
+    </navPoint>
+    <navPoint id="chapter-idm45459248864304" playOrder="24">
+      <navLabel>
+        <text>24. CHAPTER XXII</text>
+      </navLabel>
+      <content src="Text/ch24.html#idm45459248864304"/>
+    </navPoint>
+    <navPoint id="chapter-idm45459248819232" playOrder="25">
+      <navLabel>
+        <text>25. CHAPTER XXIII</text>
+      </navLabel>
+      <content src="Text/ch25.html#idm45459248819232"/>
+    </navPoint>
+    <navPoint id="chapter-idm45459248735984" playOrder="26">
+      <navLabel>
+        <text>26. CHAPTER XXIV</text>
+      </navLabel>
+      <content src="Text/ch26.html#idm45459248735984"/>
+    </navPoint>
+    <navPoint id="chapter-idm45459248601344" playOrder="27">
+      <navLabel>
+        <text>27. CHAPTER XXV</text>
+      </navLabel>
+      <content src="Text/ch27.html#idm45459248601344"/>
+    </navPoint>
+    <navPoint id="chapter-idm45459248512544" playOrder="28">
+      <navLabel>
+        <text>28. CHAPTER XXVI</text>
+      </navLabel>
+      <content src="Text/ch28.html#idm45459248512544"/>
+    </navPoint>
+    <navPoint id="chapter-idm45459248437616" playOrder="29">
+      <navLabel>
+        <text>29. CHAPTER XXVII</text>
+      </navLabel>
+      <content src="Text/ch29.html#idm45459248437616"/>
+    </navPoint>
+    <navPoint id="chapter-idm45459248266576" playOrder="30">
+      <navLabel>
+        <text>30. CHAPTER XXVIII</text>
+      </navLabel>
+      <content src="Text/ch30.html#idm45459248266576"/>
+    </navPoint>
+    <navPoint id="chapter-idm45459248138944" playOrder="31">
+      <navLabel>
+        <text>31. CHAPTER XXIX</text>
+      </navLabel>
+      <content src="Text/ch31.html#idm45459248138944"/>
+    </navPoint>
+    <navPoint id="chapter-idm45459248047504" playOrder="32">
+      <navLabel>
+        <text>32. CHAPTER XXX</text>
+      </navLabel>
+      <content src="Text/ch32.html#idm45459248047504"/>
+    </navPoint>
+    <navPoint id="chapter-idm45459247981824" playOrder="33">
+      <navLabel>
+        <text>33. CHAPTER XXXI</text>
+      </navLabel>
+      <content src="Text/ch33.html#idm45459247981824"/>
+    </navPoint>
+    <navPoint id="chapter-idm45459247927936" playOrder="34">
+      <navLabel>
+        <text>34. CHAPTER XXXII</text>
+      </navLabel>
+      <content src="Text/ch34.html#idm45459247927936"/>
+    </navPoint>
+    <navPoint id="chapter-idm45459247857120" playOrder="35">
+      <navLabel>
+        <text>35. CHAPTER XXXIII</text>
+      </navLabel>
+      <content src="Text/ch35.html#idm45459247857120"/>
+    </navPoint>
+    <navPoint id="chapter-idm45459247755632" playOrder="36">
+      <navLabel>
+        <text>36. CHAPTER XXXIV</text>
+      </navLabel>
+      <content src="Text/ch36.html#idm45459247755632"/>
+    </navPoint>
+    <navPoint id="chapter-idm45459247598672" playOrder="37">
+      <navLabel>
+        <text>37. CHAPTER XXXV</text>
+      </navLabel>
+      <content src="Text/ch37.html#idm45459247598672"/>
+    </navPoint>
+    <navPoint id="chapter-idm45459247516000" playOrder="38">
+      <navLabel>
+        <text>38. CHAPTER XXXVI</text>
+      </navLabel>
+      <content src="Text/ch38.html#idm45459247516000"/>
+    </navPoint>
+    <navPoint id="chapter-idm45459247447072" playOrder="39">
+      <navLabel>
+        <text>39. CHAPTER XXXVII</text>
+      </navLabel>
+      <content src="Text/ch39.html#idm45459247447072"/>
+    </navPoint>
+    <navPoint id="chapter-idm45459247270240" playOrder="40">
+      <navLabel>
+        <text>40. CHAPTER XXXVIII—CONCLUSION</text>
+      </navLabel>
+      <content src="Text/ch40.html#idm45459247270240"/>
+    </navPoint>
+  </navMap>
+</ncx>
