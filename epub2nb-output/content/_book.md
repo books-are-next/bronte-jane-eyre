@@ -14,10 +14,6 @@ meta:
   edition: beletrie
   publisherShort: mkp
 readingOrder:
-  - cover.html
-  - titlepage01.html
-  - copyright-page01.html
-  - ch01.html
   - ch02.html
   - ch03.html
   - ch04.html
@@ -57,10 +53,24 @@ readingOrder:
   - ch38.html
   - ch39.html
   - ch40.html
+  - colophon.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: ch02.html
+        title: Preface
+        hiddenTitle: false
+      - link: ch03.html
+        title: Chapter I
+        hiddenTitle: false
+      - link: ch04.html
+        title: Chapter II
+        hiddenTitle: false
+      - link: ch05.html
+        title: Chapter III
+        hiddenTitle: false
     isSection: true
+    listType: plain
 static:
   - style
   - scripts
