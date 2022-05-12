@@ -1,17 +1,60 @@
 {
-  "author": "Charlotte Brontë",
-  "contenttype": "prose",
-  "edition": "beletrie",
-  "identifier": "bronte-jane-eyre-an-autobiography-e2b3df1",
-  "languagecode": "cs",
-  "modified": "2022-03-14T15:52:24.025Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Jane Eyre, an Autobiography",
-  "revision": "e2b3df1",
+  "author": "Charlotte Brontë",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "bronte-jane-eyre-an-autobiography-1156b4a",
+  "revision": "1156b4a",
+  "readingOrder": [
+    "ch02.html",
+    "ch03.html",
+    "ch04.html",
+    "ch05.html",
+    "ch06.html",
+    "ch07.html",
+    "ch08.html",
+    "ch09.html",
+    "ch10.html",
+    "ch11.html",
+    "ch12.html",
+    "ch13.html",
+    "ch14.html",
+    "ch15.html",
+    "ch16.html",
+    "ch17.html",
+    "ch18.html",
+    "ch19.html",
+    "ch20.html",
+    "ch21.html",
+    "ch22.html",
+    "ch23.html",
+    "ch24.html",
+    "ch25.html",
+    "ch26.html",
+    "ch27.html",
+    "ch28.html",
+    "ch29.html",
+    "ch30.html",
+    "ch31.html",
+    "ch32.html",
+    "ch33.html",
+    "ch34.html",
+    "ch35.html",
+    "ch36.html",
+    "ch37.html",
+    "ch38.html",
+    "ch39.html",
+    "ch40.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Tue Mar 15 2022 14:38:03 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1647355083290
+    "date": "Thu May 12 2022 10:40:01 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352001813
   },
   "documents": [
     {
@@ -1068,11 +1111,11 @@
       ]
     },
     {
-      "title": "Tiráž • Jane Eyre, an Autobiography",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 177,
-      "chars": 1180,
-      "ideas": 18,
+      "words": 1,
+      "chars": 5,
+      "ideas": 1,
       "role": "colophon",
       "order": null,
       "prev": "ch40.html",
@@ -1084,36 +1127,15 @@
           "name": "Tiráž",
           "id": null,
           "children": []
-        },
-        {
-          "index": 1,
-          "level": 1,
-          "name": "Jane Eyre, an Autobiography",
-          "id": "jane-eyre-annbspautobiography",
-          "children": []
-        },
-        {
-          "index": 2,
-          "level": 1,
-          "name": "Jane Eyre, an Autobiography",
-          "id": "jane-eyre-annbspautobiography-1",
-          "children": []
-        },
-        {
-          "index": 3,
-          "level": 1,
-          "name": "Copyright",
-          "id": "copyright",
-          "children": []
         }
       ]
     }
   ],
   "totals": {
     "all": {
-      "words": 185277,
-      "chars": 1018371,
-      "ideas": 4169
+      "words": 185101,
+      "chars": 1017196,
+      "ideas": 4152
     },
     "chapters": {
       "words": 185092,

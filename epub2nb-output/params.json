@@ -558,8 +558,7 @@
           }
         ]
       }
-    ],
-    "replacements": []
+    ]
   },
   "epub": {
     "metadata": {
@@ -567,7 +566,7 @@
       "identifier": "randomid-idm45459250986064",
       "author": "Charlotte Brontë",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-03-15T14:36:57.642Z"
+      "modified": "2017-06-29T14:42:01.000Z"
     },
     "chapters": [
       {
@@ -918,6 +917,6 @@
       "user": "books-are-next",
       "repo": "bronte-jane-eyre"
     },
-    "generatedAt": 1647355018796
+    "generatedAt": 1652351486054
   }
 }
