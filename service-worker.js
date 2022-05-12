@@ -764,7 +764,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 /// <reference lib="WebWorker" />
 require("regenerator-runtime");
 const sw = self;
-const CACHE = 'cache-1156b4a';
+const CACHE = 'cache-e8bce5c';
 /**
  * IndexedDB singleton wrapper used to store persistent information with an predefined {@link Schema}
  */
@@ -1019,7 +1019,7 @@ async function cache(context) {
         .open(CACHE)
         .then(cache => {
         console.log('[' + context + '] Opened cache');
-        return cache.addAll(["./","./ch02.html","./ch03.html","./ch04.html","./ch05.html","./ch06.html","./ch07.html","./ch08.html","./ch09.html","./ch10.html","./ch11.html","./ch12.html","./ch13.html","./ch14.html","./ch15.html","./ch16.html","./ch17.html","./ch18.html","./ch19.html","./ch20.html","./ch21.html","./ch22.html","./ch23.html","./ch24.html","./ch25.html","./ch26.html","./ch27.html","./ch28.html","./ch29.html","./ch30.html","./ch31.html","./ch32.html","./ch33.html","./ch34.html","./ch35.html","./ch36.html","./ch37.html","./ch38.html","./ch39.html","./ch40.html","./colophon.html","./favicon.png","./index.html","./manifest.json","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/cover.jpg","./resources/p107s.jpg","./resources/p140s.jpg","./resources/p184s.jpg","./resources/p190s.jpg","./resources/p272s.jpg","./resources/p30s.jpg","./resources/p311s.jpg","./resources/p316s.jpg","./resources/p323s.jpg","./resources/p369s.jpg","./resources/p389s.jpg","./resources/p413s.jpg","./resources/p422s.jpg","./resources/p435s.jpg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
+        return cache.addAll(["./","./ch02.html","./ch03.html","./ch04.html","./ch05.html","./ch06.html","./ch07.html","./ch08.html","./ch09.html","./ch10.html","./ch11.html","./ch12.html","./ch14.html","./ch15.html","./ch16.html","./ch13.html","./ch17.html","./ch18.html","./ch19.html","./ch20.html","./ch21.html","./ch22.html","./ch23.html","./ch24.html","./ch25.html","./ch26.html","./ch27.html","./ch28.html","./ch29.html","./ch30.html","./ch31.html","./ch32.html","./ch33.html","./ch34.html","./ch35.html","./ch36.html","./ch37.html","./ch38.html","./ch39.html","./ch40.html","./colophon.html","./favicon.png","./index.html","./manifest.json","./promo.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/cover.jpg","./resources/p107s.jpg","./resources/p140s.jpg","./resources/p184s.jpg","./resources/p190s.jpg","./resources/p272s.jpg","./resources/p30s.jpg","./resources/p311s.jpg","./resources/p316s.jpg","./resources/p323s.jpg","./resources/p369s.jpg","./resources/p389s.jpg","./resources/p413s.jpg","./resources/p422s.jpg","./resources/p435s.jpg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
     })
         .then(() => idb.set({ key: 'cacheUpdatedAt', value: new Date().toISOString() }))
         .then(() => {

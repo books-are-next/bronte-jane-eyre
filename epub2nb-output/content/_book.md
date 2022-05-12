@@ -14,6 +14,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
 readingOrder:
+  - promo.html
   - ch02.html
   - ch03.html
   - ch04.html

@@ -8,9 +8,10 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "bronte-jane-eyre-an-autobiography-1156b4a",
-  "revision": "1156b4a",
+  "identifier": "bronte-jane-eyre-an-autobiography-e8bce5c",
+  "revision": "e8bce5c",
   "readingOrder": [
+    "promo.html",
     "ch02.html",
     "ch03.html",
     "ch04.html",
@@ -53,10 +54,22 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu May 12 2022 10:40:01 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652352001813
+    "date": "Thu May 12 2022 15:11:51 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652368311978
   },
   "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "ch02.html",
+      "toc": []
+    },
     {
       "title": "Jane Eyre, an Autobiography",
       "file": "ch02.html",
@@ -64,8 +77,8 @@
       "chars": 4555,
       "ideas": 16,
       "role": "chapter",
-      "order": 0,
-      "prev": null,
+      "order": 1,
+      "prev": "promo.html",
       "next": "ch03.html",
       "toc": [
         {
@@ -91,7 +104,7 @@
       "chars": 10800,
       "ideas": 46,
       "role": "chapter",
-      "order": 1,
+      "order": 2,
       "prev": "ch02.html",
       "next": "ch04.html",
       "toc": [
@@ -118,7 +131,7 @@
       "chars": 15331,
       "ideas": 44,
       "role": "chapter",
-      "order": 2,
+      "order": 3,
       "prev": "ch03.html",
       "next": "ch05.html",
       "toc": [
@@ -145,7 +158,7 @@
       "chars": 17436,
       "ideas": 106,
       "role": "chapter",
-      "order": 3,
+      "order": 4,
       "prev": "ch04.html",
       "next": "ch06.html",
       "toc": [
@@ -172,7 +185,7 @@
       "chars": 31815,
       "ideas": 125,
       "role": "chapter",
-      "order": 4,
+      "order": 5,
       "prev": "ch05.html",
       "next": "ch07.html",
       "toc": [
@@ -199,7 +212,7 @@
       "chars": 27641,
       "ideas": 113,
       "role": "chapter",
-      "order": 5,
+      "order": 6,
       "prev": "ch06.html",
       "next": "ch08.html",
       "toc": [
@@ -226,7 +239,7 @@
       "chars": 15951,
       "ideas": 66,
       "role": "chapter",
-      "order": 6,
+      "order": 7,
       "prev": "ch07.html",
       "next": "ch09.html",
       "toc": [
@@ -253,7 +266,7 @@
       "chars": 20079,
       "ideas": 56,
       "role": "chapter",
-      "order": 7,
+      "order": 8,
       "prev": "ch08.html",
       "next": "ch10.html",
       "toc": [
@@ -280,7 +293,7 @@
       "chars": 16459,
       "ideas": 63,
       "role": "chapter",
-      "order": 8,
+      "order": 9,
       "prev": "ch09.html",
       "next": "ch11.html",
       "toc": [
@@ -307,7 +320,7 @@
       "chars": 17721,
       "ideas": 62,
       "role": "chapter",
-      "order": 9,
+      "order": 10,
       "prev": "ch10.html",
       "next": "ch12.html",
       "toc": [
@@ -334,7 +347,7 @@
       "chars": 23880,
       "ideas": 86,
       "role": "chapter",
-      "order": 10,
+      "order": 11,
       "prev": "ch11.html",
       "next": "ch13.html",
       "toc": [
@@ -361,7 +374,7 @@
       "chars": 35243,
       "ideas": 126,
       "role": "chapter",
-      "order": 11,
+      "order": 12,
       "prev": "ch12.html",
       "next": "ch14.html",
       "toc": [
@@ -388,7 +401,7 @@
       "chars": 22884,
       "ideas": 71,
       "role": "chapter",
-      "order": 12,
+      "order": 13,
       "prev": "ch13.html",
       "next": "ch15.html",
       "toc": [
@@ -415,7 +428,7 @@
       "chars": 22112,
       "ideas": 137,
       "role": "chapter",
-      "order": 13,
+      "order": 14,
       "prev": "ch14.html",
       "next": "ch16.html",
       "toc": [
@@ -442,7 +455,7 @@
       "chars": 27143,
       "ideas": 109,
       "role": "chapter",
-      "order": 14,
+      "order": 15,
       "prev": "ch15.html",
       "next": "ch17.html",
       "toc": [
@@ -469,7 +482,7 @@
       "chars": 27435,
       "ideas": 78,
       "role": "chapter",
-      "order": 15,
+      "order": 16,
       "prev": "ch16.html",
       "next": "ch18.html",
       "toc": [
@@ -496,7 +509,7 @@
       "chars": 21131,
       "ideas": 78,
       "role": "chapter",
-      "order": 16,
+      "order": 17,
       "prev": "ch17.html",
       "next": "ch19.html",
       "toc": [
@@ -523,7 +536,7 @@
       "chars": 45030,
       "ideas": 157,
       "role": "chapter",
-      "order": 17,
+      "order": 18,
       "prev": "ch18.html",
       "next": "ch20.html",
       "toc": [
@@ -550,7 +563,7 @@
       "chars": 33478,
       "ideas": 104,
       "role": "chapter",
-      "order": 18,
+      "order": 19,
       "prev": "ch19.html",
       "next": "ch21.html",
       "toc": [
@@ -577,7 +590,7 @@
       "chars": 20302,
       "ideas": 147,
       "role": "chapter",
-      "order": 19,
+      "order": 20,
       "prev": "ch20.html",
       "next": "ch22.html",
       "toc": [
@@ -604,7 +617,7 @@
       "chars": 31819,
       "ideas": 169,
       "role": "chapter",
-      "order": 20,
+      "order": 21,
       "prev": "ch21.html",
       "next": "ch23.html",
       "toc": [
@@ -631,7 +644,7 @@
       "chars": 47452,
       "ideas": 196,
       "role": "chapter",
-      "order": 21,
+      "order": 22,
       "prev": "ch22.html",
       "next": "ch24.html",
       "toc": [
@@ -658,7 +671,7 @@
       "chars": 15370,
       "ideas": 39,
       "role": "chapter",
-      "order": 22,
+      "order": 23,
       "prev": "ch23.html",
       "next": "ch25.html",
       "toc": [
@@ -685,7 +698,7 @@
       "chars": 21035,
       "ideas": 121,
       "role": "chapter",
-      "order": 23,
+      "order": 24,
       "prev": "ch24.html",
       "next": "ch26.html",
       "toc": [
@@ -712,7 +725,7 @@
       "chars": 38177,
       "ideas": 220,
       "role": "chapter",
-      "order": 24,
+      "order": 25,
       "prev": "ch25.html",
       "next": "ch27.html",
       "toc": [
@@ -739,7 +752,7 @@
       "chars": 26954,
       "ideas": 110,
       "role": "chapter",
-      "order": 25,
+      "order": 26,
       "prev": "ch26.html",
       "next": "ch28.html",
       "toc": [
@@ -766,7 +779,7 @@
       "chars": 23552,
       "ideas": 93,
       "role": "chapter",
-      "order": 26,
+      "order": 27,
       "prev": "ch27.html",
       "next": "ch29.html",
       "toc": [
@@ -793,7 +806,7 @@
       "chars": 59810,
       "ideas": 165,
       "role": "chapter",
-      "order": 27,
+      "order": 28,
       "prev": "ch28.html",
       "next": "ch30.html",
       "toc": [
@@ -820,7 +833,7 @@
       "chars": 36854,
       "ideas": 148,
       "role": "chapter",
-      "order": 28,
+      "order": 29,
       "prev": "ch29.html",
       "next": "ch31.html",
       "toc": [
@@ -847,7 +860,7 @@
       "chars": 24510,
       "ideas": 127,
       "role": "chapter",
-      "order": 29,
+      "order": 30,
       "prev": "ch30.html",
       "next": "ch32.html",
       "toc": [
@@ -874,7 +887,7 @@
       "chars": 20957,
       "ideas": 71,
       "role": "chapter",
-      "order": 30,
+      "order": 31,
       "prev": "ch31.html",
       "next": "ch33.html",
       "toc": [
@@ -901,7 +914,7 @@
       "chars": 16959,
       "ideas": 54,
       "role": "chapter",
-      "order": 31,
+      "order": 32,
       "prev": "ch32.html",
       "next": "ch34.html",
       "toc": [
@@ -928,7 +941,7 @@
       "chars": 25895,
       "ideas": 70,
       "role": "chapter",
-      "order": 32,
+      "order": 33,
       "prev": "ch33.html",
       "next": "ch35.html",
       "toc": [
@@ -955,7 +968,7 @@
       "chars": 26486,
       "ideas": 143,
       "role": "chapter",
-      "order": 33,
+      "order": 34,
       "prev": "ch34.html",
       "next": "ch36.html",
       "toc": [
@@ -982,7 +995,7 @@
       "chars": 50779,
       "ideas": 163,
       "role": "chapter",
-      "order": 34,
+      "order": 35,
       "prev": "ch35.html",
       "next": "ch37.html",
       "toc": [
@@ -1009,7 +1022,7 @@
       "chars": 23336,
       "ideas": 99,
       "role": "chapter",
-      "order": 35,
+      "order": 36,
       "prev": "ch36.html",
       "next": "ch38.html",
       "toc": [
@@ -1036,7 +1049,7 @@
       "chars": 21099,
       "ideas": 81,
       "role": "chapter",
-      "order": 36,
+      "order": 37,
       "prev": "ch37.html",
       "next": "ch39.html",
       "toc": [
@@ -1063,7 +1076,7 @@
       "chars": 39917,
       "ideas": 263,
       "role": "chapter",
-      "order": 37,
+      "order": 38,
       "prev": "ch38.html",
       "next": "ch40.html",
       "toc": [
@@ -1090,7 +1103,7 @@
       "chars": 9750,
       "ideas": 25,
       "role": "chapter",
-      "order": 38,
+      "order": 39,
       "prev": "ch39.html",
       "next": "colophon.html",
       "toc": [
