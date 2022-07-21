@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "bronte-jane-eyre-an-autobiography-7965932",
-  "revision": "7965932",
+  "identifier": "bronte-jane-eyre-an-autobiography-0a66286",
+  "revision": "0a66286",
   "readingOrder": [
     "promo.html",
     "ch02.html",
@@ -54,8 +54,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 09:28:28 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657186108377
+    "date": "Thu Jul 21 2022 14:47:28 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658414848352
   },
   "documents": [
     {
@@ -1146,8 +1146,8 @@
   ],
   "totals": {
     "all": {
-      "words": 185100,
-      "chars": 1017201,
+      "words": 185101,
+      "chars": 1017196,
       "ideas": 4152
     },
     "chapters": {
